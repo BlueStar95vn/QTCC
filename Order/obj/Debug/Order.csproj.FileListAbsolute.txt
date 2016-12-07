@@ -1,0 +1,14 @@
+E:\HSU\16.1A\Quy trình và công cụ PTPM\Order\Order\bin\Debug\Order.exe.config
+D:\HSU\16.1A\Quy trình và công cụ PTPM\Order\Order\bin\Debug\Order.exe.config
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\bin\Debug\Order.exe.config
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.BanHang.resources
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.Form1.resources
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.Properties.Resources.resources
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.QuanLy.resources
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\bin\Debug\Order.exe
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\bin\Debug\Order.pdb
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.exe
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.pdb
+D:\HSU\16.1A\Quy trình và công cụ PTPM\QTCC\Order\obj\Debug\Order.DangNhap.resources
